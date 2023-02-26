@@ -149,5 +149,12 @@
         integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
         crossorigin="anonymous"></script>
 </body>
+<footer>
+    <div class t="card">
 
+        <div class="card-body">
+            <p class="card-text">© KhumarZada 2022</p>
+        </div>
+    </div>
+</footer>
 </html>
